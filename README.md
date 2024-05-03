@@ -11,7 +11,7 @@ I'm a programmer-hobbyist from Germany.
 
 ---
 ### :computer: Languages :
-<div>
+<div align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@ I'm a programmer-hobbyist from Germany.
 ---
 
 ### :hammer_and_wrench: Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
@@ -40,13 +40,38 @@ I'm a programmer-hobbyist from Germany.
 ---
 
 ### :fire: My Stats :
-   <div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chimbaki-dev&theme=dark&background=000000)](https://git.io/streak-stats)</div>
-   <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/chimbaki/github-readme-stats)</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+</p>
+   <p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=chimbaki-dev&theme=dark&background=000000" alt="Top Langs"/>
+</p>
+   
+   
+   
    
 ---
 
-### Contact:
+### 📩 Contact:
 
-| Twitter (X)   || Discord       || Telegram    |
-| ------------ |-| ------------ |-| ------------ |
-| [`@chimbaki_dev`](https://x.com/chimbaki_dev) || [`chimbaki_dev`](https://discord.com/app) || [`@chimbaki`](https://t.me/chimbaki) |
+<table align="center">
+  <tr>
+    <th>Twitter (X)</th>
+    <th>Discord</th>
+    <th>Telegram</th>
+  </tr>
+  <tr>
+    <td><a href="https://x.com/chimbaki_dev">@chimbaki_dev</a></td>
+    <td><a href="https://discord.com/app">chimbaki_dev</a></td>
+    <td><a href="https://t.me/chimbaki">@chimbaki</a></td>
+  </tr>
+</table>
+
+
+
+  | Twitter (X)   || Discord       || Telegram    |
+  | ------------ |-| ------------ |-| ------------ |
+  | [`@chimbaki_dev`](https://x.com/chimbaki_dev) || [`chimbaki_dev`](https://discord.com/app) || [`@chimbaki`](https://t.me/chimbaki) |
+
+
+
