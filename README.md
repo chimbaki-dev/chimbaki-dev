@@ -40,8 +40,8 @@ I'm a programmer-hobbyist from Germany.
 ---
 
 ### :fire: My Stats :
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chimbaki-dev&theme=dark&background=000000)](https://git.io/streak-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/chimbaki/github-readme-stats)
+   <div align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chimbaki-dev&theme=dark&background=000000)](https://git.io/streak-stats)</div>
+   <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/chimbaki/github-readme-stats)</div>
    
 ---
 
