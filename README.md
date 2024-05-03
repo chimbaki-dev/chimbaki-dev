@@ -66,12 +66,3 @@ I'm a programmer-hobbyist from Germany.
     <td><a href="https://t.me/chimbaki">@chimbaki</a></td>
   </tr>
 </table>
-
-
-
-  | Twitter (X)   || Discord       || Telegram    |
-  | ------------ |-| ------------ |-| ------------ |
-  | [`@chimbaki_dev`](https://x.com/chimbaki_dev) || [`chimbaki_dev`](https://discord.com/app) || [`@chimbaki`](https://t.me/chimbaki) |
-
-
-
