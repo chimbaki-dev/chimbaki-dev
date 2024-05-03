@@ -1,4 +1,5 @@
- # <div align="center">![output-onlinegiftools](https://github.com/chimbaki/chimbaki/assets/167687666/7f19c795-f5a9-41c6-a4b2-724212bd8288)</div> 
+ # <div align="center">![output-onlinegiftools](https://github.com/chimbaki-dev/chimbaki-dev/assets/168841411/e2cdcba6-9d38-495f-a355-8b6190d7fc8e)</div> 
+
 <!--- # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&weight=500&color=17F700&pause=60000&center=true&random=false&width=435&lines=Welcome&font=Consolas)](https://git.io/typing-svg) </div> --->
 
 ### :man_technologist: About me
