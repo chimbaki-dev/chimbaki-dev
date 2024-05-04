@@ -43,9 +43,6 @@ I'm a programmer-hobbyist from Germany.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </p>
-   <p align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=chimbaki-dev&theme=dark&background=000000" alt="Top Langs"/>
-</p>
    
    
    
