@@ -40,11 +40,9 @@ I'm a programmer-hobbyist from Germany.
 ---
 
 ### :fire: My Stats :
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-</p>
-   
-   
+
+<div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chimbaki-dev&langs_count=4&theme=transparent&bg_color=00000000"/></div>
+
    
    
 ---
