@@ -7,7 +7,6 @@ I'm a programmer-hobbyist from Germany.
 - I have 3+ years experience of developing software in C/C++, C#, Python, Web and many others.
 - Basic Photoshop skills
 - Actively studying AI.
-- Engaged in low-level software development
 
 ---
 ### :computer: Languages :
