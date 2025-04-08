@@ -3,7 +3,7 @@
 <!--- # <div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&weight=500&color=17F700&pause=60000&center=true&random=false&width=435&lines=Welcome&font=Consolas)](https://git.io/typing-svg) </div> --->
 
 ### :man_technologist: About me
-I'm a programmer-hobbyist from Germany. 
+I'm a programmer-hobbyist from Russia. 
 - I have 3+ years experience of developing software in C/C++, C#, Python, Web and many others.
 - Basic Photoshop skills
 - Actively studying AI.
